@@ -3,10 +3,10 @@ Drone ini didesain untuk menjadi suatu drone miniatur yang digunakan untuk penga
 <br>
 ![image](https://github.com/SWilbert03/Mini-Surveillance-Drone/assets/100682535/c04bdfce-2214-454a-a537-ba2c24bf97bf)
 <br>
-Spesifikasi Alat:
-Material	: Hardened Plastic
-Warna	: Hitam dan Kuning
-Ukuran	: 64mm X 108mm X 38 mm
-Berat	: 1 Kg
-<br>
+Spesifikasi Alat:<br>
+Material	: Hardened Plastic<br>
+Warna	: Hitam dan Kuning<br>
+Ukuran	: 64mm X 108mm X 38 mm<br>
+Berat	: 1 Kg<br>
+
 ![image](https://github.com/SWilbert03/Mini-Surveillance-Drone/assets/100682535/47cf5634-6e1f-4bb2-ba5c-3b0172304b91)
