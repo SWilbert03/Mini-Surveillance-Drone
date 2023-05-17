@@ -10,3 +10,5 @@ Ukuran	: 64mm X 108mm X 38 mm<br>
 Berat	: 1 Kg<br>
 
 ![image](https://github.com/SWilbert03/Mini-Surveillance-Drone/assets/100682535/47cf5634-6e1f-4bb2-ba5c-3b0172304b91)
+![image](https://github.com/SWilbert03/Mini-Surveillance-Drone/assets/100682535/3c9f0ce0-9d12-426b-a5f6-b4cbaf63f142)
+
